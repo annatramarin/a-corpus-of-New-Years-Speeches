@@ -22,5 +22,5 @@ The speech transcripts span from varying starting years until 2021, depending on
 - Norway: 1957-2021
 - France: 1960-2021
 
-The NewYeS corpus was introduced by "NewYeS: A Corpus of New Year’s Speeches with a Comparative Analysis" (Tramarin & Strapparava, 2022). Please refer to this paper when citing the corpus.
-http://www.lrec-conf.org/proceedings/lrec2022/workshops/PoliticalNLP/2022.politicalnlp-1.0.pdf
+The NewYeS corpus was introduced by ["NewYeS: A Corpus of New Year’s Speeches with a Comparative Analysis"](http://www.lrec-conf.org/proceedings/lrec2022/workshops/PoliticalNLP/2022.politicalnlp-1.0.pdf) (Tramarin & Strapparava, 2022). Please refer to this paper when citing the corpus.
+
