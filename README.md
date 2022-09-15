@@ -29,3 +29,7 @@ God mentions in the speeches over the years
 </p>
 
 ![god_mentions.PNG](god_mentions.PNG)
+
+![positive_emotion.PNG](positive_emotion.PNG)
+
+![religious_elements.PNG](religious_elements.PNG)
