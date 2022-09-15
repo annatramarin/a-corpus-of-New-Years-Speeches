@@ -24,7 +24,7 @@ The speech transcripts span from varying starting years until 2021, depending on
 
 The NewYeS corpus was introduced by ["NewYeS: A Corpus of New Year’s Speeches with a Comparative Analysis"](http://www.lrec-conf.org/proceedings/lrec2022/workshops/PoliticalNLP/2022.politicalnlp-1.0.pdf) (Tramarin & Strapparava, 2022). Please refer to this paper when citing the corpus.
 
-A comparative analysis was performed on the texts - some of the elements analysed are the frequency of the mention of the word "God", the positive emotion rate and the frequency of religious elements.
+A comparative analysis was performed on the texts - some of the elements analysed are the frequency of the mention of the word "God", the change of the positive emotion rate over the years, and the frequency of religious elements.
 
 ![god_mentions.PNG](god_mentions.PNG)
 
