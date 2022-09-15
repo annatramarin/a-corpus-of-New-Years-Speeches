@@ -24,3 +24,8 @@ The speech transcripts span from varying starting years until 2021, depending on
 
 The NewYeS corpus was introduced by ["NewYeS: A Corpus of New Year’s Speeches with a Comparative Analysis"](http://www.lrec-conf.org/proceedings/lrec2022/workshops/PoliticalNLP/2022.politicalnlp-1.0.pdf) (Tramarin & Strapparava, 2022). Please refer to this paper when citing the corpus.
 
+<p align="center">
+God mentions in the speeches over the years
+</p>
+
+![god_mentions.PNG](god_mentions.PNG)
