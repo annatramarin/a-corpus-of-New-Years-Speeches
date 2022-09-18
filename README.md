@@ -26,7 +26,7 @@ The NewYeS corpus was introduced by ["NewYeS: A Corpus of New Year’s Speeches 
 
 A comparative analysis was performed on the texts - some of the elements analysed are the frequency of the mention of the word "God", the change of the positive emotion rate over the years, and the frequency of religious elements.
 
-The script [UK_header_iteration.py](https://github.com/annatramarin/a_corpus_of_New_Years_Speeches/blob/main/UK_header_iteration.py) was used to recursively POS-tag the speech transcripts for the UK using Stanza, whereas [UK_most_frequent_words.py](https://github.com/annatramarin/a_corpus_of_New_Years_Speeches/blob/main/UK_most_frequent_words.py) to output the most frequent content words recurring in the speeches. Scripts for other countries are very similar, except for the language package being used and the file paths.
+The script [UK_header_iteration.py](https://github.com/annatramarin/a_corpus_of_New_Years_Speeches/blob/main/UK_header_iteration.py) was used to recursively POS-tag the speech transcripts for the UK using Stanza, whereas [UK_most_frequent_words.py](https://github.com/annatramarin/a_corpus_of_New_Years_Speeches/blob/main/UK_most_frequent_words.py) was used to output the most frequent content words recurring in the speeches. Scripts for other countries are very similar, except for the language package being used and the file paths.
 
 ![god_mentions.PNG](god_mentions.PNG)
 
