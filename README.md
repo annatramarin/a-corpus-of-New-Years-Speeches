@@ -11,7 +11,7 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-The NewYeS (New Year's Speeches) corpus is a multilingual corpus that comprises transcripts of Christmas messages and New Year's speeches held at the end of the year by the heads of state of different European countries - i.e. Denmark, France, Italy, Norway, Spain and the United Kingdom. 
+The NewYeS (New Year's Speeches) corpus is a multilingual corpus that comprises transcripts of Christmas messages and New Year's speeches held at the end of the year by the heads of state of different European countries - i.e. Denmark, France, Italy, Norway, Spain and the United Kingdom 
 
 The corpus was collected from various web sources, mainly official royal or presidential websites. The speeches are divided by country, and each speech is contained in a .txt file that follows the "country_year" denomination. 
 
