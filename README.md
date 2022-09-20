@@ -22,7 +22,7 @@ The speech transcripts span from varying starting years until 2021, depending on
 - Norway: 1957-2021
 - France: 1960-2021
 
-The NewYeS corpus was introduced by ["NewYeS: A Corpus of New Year’s Speeches with a Comparative Analysis"](http://www.lrec-conf.org/proceedings/lrec2022/workshops/PoliticalNLP/2022.politicalnlp-1.0.pdf) (Tramarin & Strapparava, 2022). Please refer to this paper when citing the corpus.
+The NewYeS corpus was introduced by ["NewYeS: A Corpus of New Year’s Speeches with a Comparative Analysis"](http://www.lrec-conf.org/proceedings/lrec2022/workshops/PoliticalNLP/2022.politicalnlp-1.0.pdf) (Tramarin & Strapparava, 2022). Please refer to this paper when citing the corpus
 
 [UK_header_iteration.py](https://github.com/annatramarin/a_corpus_of_New_Years_Speeches/blob/main/UK_header_iteration.py) is an example of the scripts that were used to recursively POS-tag the speech transcripts for the UK using [Stanza](https://stanfordnlp.github.io/stanza/), whereas [UK_most_frequent_words.py](https://github.com/annatramarin/a_corpus_of_New_Years_Speeches/blob/main/UK_most_frequent_words.py) was used to output the most frequent content words recurring in the speeches. Scripts for other countries are very similar, except for the language package being used and the file paths.
 
