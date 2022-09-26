@@ -15,7 +15,7 @@ The NewYeS (New Year's Speeches) corpus is a multilingual corpus that comprises 
 
 The corpus was collected from various web sources, mainly official royal or presidential websites. The speeches are divided by country, and each speech is contained in a .txt file that follows the "country_year" denomination. 
 
-The speech transcripts span from varying starting years until 2021, depending on web availability
+The speech transcripts span from varying starting years until 2021, depending on web availability.
 - Denmark: 1946-2021
 - Italy and Spain: 1949-2021
 - United Kingdom: 1952-2021
